@@ -2,6 +2,8 @@
 
 Ein Programm zum automatischen suffixen von doppelten Ebenen in einer PSD-Datei.
 
+<img src="./psdLayerRenamer.png" alt="Windows Logo" width="450">
+
 
 ### Kompatibel mit:
 
@@ -35,3 +37,4 @@ Supportet wird bisher Windows und Mac.
 
 Hier ein Demo Video:
 [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/UpuS3n-3grg/0.jpg)](https://www.youtube.com/watch?v=UpuS3n-3grg)
+ 
