@@ -26,14 +26,13 @@ Supportet wird bisher Windows und Mac.
 
 
 ## Benutzen
-- Downloade die Datei aus dem Windows oder Mac Ordner
-- Führe sie aus
-- Pfad deiner PSD Datei kopeier
-- In die Konsole pasten
-- Enter drücken
-- Dann für den Ausgabe Pfad einfach den Pfad nochmal pasten und den namen der Datei anpassen.
-- Enter drücken
-- Dann wird die Datei direkt da gesaved wo die andere liegt nur mit anderem Namen
+- Downloade das Programm aus dem Windows oder Mac Ordner (_gui für das fertige Programm)
+- Führe es aus
+- Wähle deine PSD Datei aus die gesuffixed werden soll
+- Dann den Pfad wo die gesuffixede Datei gespeichert werden soll
+- Klicke auf "Start Renaming" um das Programm auszuführen
+- Die gesuffixede Datei wird dann im angegebenen Pfad mit _new gespeichert.
+
 
 Hier ein Demo Video:
 [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/UpuS3n-3grg/0.jpg)](https://www.youtube.com/watch?v=UpuS3n-3grg)
