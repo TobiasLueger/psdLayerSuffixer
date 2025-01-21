@@ -32,7 +32,7 @@ Supportet wird bisher Windows und Mac.
 - Dann den Pfad wo die gesuffixede Datei gespeichert werden soll
 - Klicke auf "Start Renaming" um das Programm auszuführen
 - Die gesuffixede Datei wird dann im angegebenen Pfad mit _new gespeichert.
-
+ 
 
 Hier ein Demo Video:
 [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/UpuS3n-3grg/0.jpg)](https://www.youtube.com/watch?v=UpuS3n-3grg)
